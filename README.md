@@ -1,16 +1,14 @@
-## Hi there 👋
+# LakshmiYeswanth
 
-<!--
-**lakshmiyeswanth/lakshmiyeswanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A Data Analyst
 
-Here are some ideas to get you started:
+**Email:** [yeswanthbejavada@gmail.com](mailto:yeswanthbejavada@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python (numpy, pandas, matplotlib)
+- SQLite
+- PostgreSQL
+- R
+
+## Currently Working On
+- Cloud Practitioner Certification
