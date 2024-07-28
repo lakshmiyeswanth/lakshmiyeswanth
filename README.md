@@ -9,6 +9,8 @@
 - SQLite
 - PostgreSQL
 - R
+- Microsoft Access
+-  RapidMiner
 
 ## Currently Working On
 - Cloud Practitioner Certification
