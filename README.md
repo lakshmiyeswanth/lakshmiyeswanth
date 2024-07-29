@@ -5,10 +5,8 @@
 **Email:** [yeswanthbejavada@gmail.com](mailto:yeswanthbejavada@gmail.com)
 
 ## Skills
-- Python (numpy, pandas, matplotlib)
-- SQLite
-- PostgreSQL
-- R
+- Python (numpy, pandas, matplotlib),R
+- SQLite,PostgreSQL
 - Microsoft Access
 -  RapidMiner
 
