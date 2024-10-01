@@ -1,6 +1,6 @@
 # LakshmiYeswanth
 
-## A Data Analyst | Data Scientist
+## A Python Developer| Data Scientist
 
 **Email:** [yeswanthbejavada@gmail.com](mailto:yeswanthbejavada@gmail.com)
 
